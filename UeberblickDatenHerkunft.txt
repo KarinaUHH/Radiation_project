@@ -1,0 +1,28 @@
+Venus: 
+5/6 Oktober 1991; X-Band 3.6 cm (0.278 Keyser); f = 8.426 GHz, Orbit 3212
+Mission_name: MAGELLAN alias VENUS RADAR MAPPER (VRM) (1989-05-04 to 1994-10-12) 
+
+Mars: 
+Mission_name: MARS EXPLORATION ROVER, (start: 20000-05-08, launching: 2003)
+The IMUs were not science instruments and thus nominally there was no       
+ science objective for their inclusion on the spacecraft. The measured        
+ deceleration values provided by the IMU, as a function of time (which        
+ needs to be used to determine the height above the surface).                 
+ the surface, can be employed to deduce the vertical structure of density     
+ and pressure, and ultimately temperature of the atmospheric column           
+ traversed by the lander as it descended through the atmosphere.       
+ 
+ Titan: 
+ 14. Jan 2005
+ Mission_name: CASSINI-HUYGENS
+ Instrument: Huygens Atmospheric Structure Instrument (HASI)
+pt thermometer
+HASI scientific objectives are:
+- Determine the atmospheric pressure and temperature profiles. 
+During the parachute descent, nominally beginning at 170 km, pressure and 
+temperature will be measured directly by pressure and temperature sensors with
+access to the unperturbed field outside of Huygens' boundary layer. Both the 
+measured temperature and pressure, T_meas and p_meas, could need dynamic 
+corrections: 
+ T_corr = T_meas - (r V_r^2) / (2 c_p)                                     (2)
+ p_corr = p_meas - (rho V_r^2) / 2                                 (3)
